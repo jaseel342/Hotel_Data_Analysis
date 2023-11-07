@@ -14,6 +14,7 @@ SQL is a versatile tool for data manipulation and retrieval. With SQL, we filter
 Data analysis is only part of the journey; communicating the insights effectively is equally important. Here, Power BI comes into play. Power BI empowers us to create stunning and interactive data visualizations. We harness PowerQuery M within Power BI for additional data processing, enabling us to craft compelling visual narratives that bring our findings to life. Through visually engaging charts and graphs, we make complex data comprehensible and actionable.
 
 # Power BI Report
+This is an interactive dashboard, you can download it from my repo, it's called " Hotel Data Analysis.pbix" 
 <img width="527" alt="image" src="https://github.com/jaseel342/Hotel_Data_Analysis/assets/135998004/0397d12a-af55-4542-b829-ff1d87fa5a25">
 
 # Summary
