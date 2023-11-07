@@ -3,7 +3,7 @@ This project takes a deep dive into a three-year hotel revenue dataset (2018, 20
 
 # Data Ingestion and Preparation
 
-Our journey begins with the ingestion of raw data from a .csv file into SQL Server Management Studio (SSMS). This step ensures that the data is accessible and ready for analysis. Once the data is in SSMS, we embark on the iterative process of building SQL queries, allowing us to refine and shape the dataset to suit our analytical needs. 
+Our journey begins with the ingestion of raw data from Excel file into SQL Server Management Studio (SSMS). This step ensures that the data is accessible and ready for analysis. Once the data is in SSMS, we embark on the iterative process of building SQL queries, allowing us to refine and shape the dataset to suit our analytical needs. 
 
 # Connection with Data Source
 The attached SQL in the repository is used to connect with SQL server and Power BI.
