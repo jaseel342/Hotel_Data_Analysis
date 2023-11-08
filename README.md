@@ -12,7 +12,7 @@ The attached SQL in the repository is used to connect with SQL server and Power 
 While data analysis is an essential component of our project, effective communication of insights is equally vital. This is where Power BI takes center stage. Leveraging Data Analysis Expressions (DAX) functions, we create measures to generate visual representations of our findings. Power BI empowers us to produce stunning and interactive data visualizations. To further refine and transform our data, we harness PowerQuery within Power BI, allowing us to construct captivating visual narratives. Through visually engaging charts and graphs, we bridge the gap between raw data and actionable insights, making even the most intricate data comprehensible to our audience.
 
 # Power BI Dashboard
-This is an interactive Power BI Dashboard , you can download it from my repo, it's called " Hotel_Data_Analysis.pbix" 
+This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/hotel-data-analysis-power-bi
 
 <img width="527" alt="image" src="https://github.com/jaseel342/Hotel_Data_Analysis/assets/135998004/0397d12a-af55-4542-b829-ff1d87fa5a25">
 
